@@ -33,9 +33,10 @@
 
 ## 📌 Java Projects
 
-- [Doctor Patient Management System](https://github.com/Vishva1605/Java/blob/main/Projects/DoctorPatientManagementSystem.java)  
-- [Online Shopping System](https://github.com/Vishva1605/Java/tree/main/Projects/OnlineShoppingSystem.java)  
-- [Student Course Enrollment System](https://github.com/Vishva1605/Java/tree/main/Projects/StudentCourseEnrollmentSystem.java)
+- [Doctor Patient Management System](https://github.com/Vishva1605/Java/blob/main/Projects/DoctorPatientManagementSystem)  
+- [Online Shopping System](https://github.com/Vishva1605/Java/tree/main/Projects/OnlineShoppingSystem)  
+- [Student Course Enrollment System](https://github.com/Vishva1605/Java/tree/main/Projects/StudentCourseEnrollmentSystem)
+- [University Department Portal](https://github.com/Vishva1605/Java/tree/main/Projects/UniversityDepartmentPortal)
 
 ---
 
