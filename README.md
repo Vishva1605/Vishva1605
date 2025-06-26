@@ -26,7 +26,7 @@
 ## 🔥 GitHub Streak
 
 <a href="https://github.com/Vishva1605">
-  <img src="https://streak-stats.demolab.com?user=Vishva1605&theme=dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishva1605&theme=dark&hide_border=true" alt="GitHub Streak" />
 </a>
 
 ---
