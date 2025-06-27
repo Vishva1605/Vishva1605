@@ -9,8 +9,15 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/DSA-3776AB?style=for-the-badge&logo=codeforces&logoColor=white" alt="DSA" />
+</p>
 
 ---
 
