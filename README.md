@@ -32,7 +32,7 @@
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Vishva1605&theme=dark&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vishva1605&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 ---
 
