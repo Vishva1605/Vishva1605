@@ -37,7 +37,7 @@
 
 <!-- Fallback: local image in case external link fails -->
 <!-- Make sure streak.png is pushed and in the same folder as README.md -->
-![GitHub Streak Fallback](Protfolio/streak.png)
+![GitHub Streak Fallback](Web-Projects/Protfolio/streak.png)
 
 <!-- Optional Badge for extra flair -->
 ![Profile Streak](https://img.shields.io/badge/🔥%20GitHub%20Streak%20Active-orange?style=for-the-badge)
