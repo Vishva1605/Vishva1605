@@ -32,7 +32,15 @@
 
 ## 🔥 GitHub Streak
 
+<!-- Dynamic GitHub Streak using streak-stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Vishva1605&theme=default)](https://git.io/streak-stats)
+
+<!-- Fallback: local image in case external link fails -->
+<!-- Make sure streak.png is pushed and in the same folder as README.md -->
+![GitHub Streak Fallback](./streak.png)
+
+<!-- Optional Badge for extra flair -->
+![Profile Streak](https://img.shields.io/badge/🔥%20GitHub%20Streak%20Active-orange?style=for-the-badge)
 
 ---
 
