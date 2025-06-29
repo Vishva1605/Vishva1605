@@ -34,8 +34,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Vishva1605&theme=default)](https://git.io/streak-stats)
 
-![GitHub Streak](https://raw.githubusercontent.com/Vishva1605/Vishva1605/main/streak.png)
-
 ![Profile Streak](https://img.shields.io/badge/🔥%20GitHub%20Streak%20Active-orange?style=for-the-badge)
 
 ## 📌 Java Projects
