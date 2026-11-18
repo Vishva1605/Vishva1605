@@ -1,116 +1,100 @@
-<h1 align="center">Hi 👋, I'm Vishva K S</h1>
-<h3 align="center">
-Computer Science Engineering Graduate | Java & Backend Developer | Fresher
-</h3>
+# Hi, I'm Vishva K S 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vishva-k-s">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vishvasrinivas123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://vishva1605.github.io/Web-Projects/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white" />
-  </a>
-</p>
+### Computer Science Engineering Graduate | Java Developer | Backend Development
 
----
+I'm a 2026 Computer Science Engineering graduate interested in Java development and backend engineering. I enjoy learning by building projects, solving programming problems, and understanding how applications work.
 
-### 👨‍💻 About Me
-- 🎓 Computer Science Engineering Graduate
-- 💼 Former **Java Full Stack Developer Intern @ uLektz**
-- 🔭 Currently working on **Java & Backend Mini Projects**
-- 🌱 Learning **Spring Boot, Java Collections & REST APIs**
-- 💬 Ask me about **Java, OOP, DSA, MySQL**
-- ⚡ Fun fact: I enjoy writing **clean, readable, and optimized code**
+- 🎓 B.E. Computer Science and Engineering — S.A. Engineering College
+- 📊 CGPA: 8.2
+- 💼 Internship experience in Java Full Stack Development and Web Development
+- 🌱 Currently strengthening my skills in Spring Boot, Hibernate, REST APIs and backend development
+- 💻 Interested in Java Developer, Backend Developer and Software Engineer opportunities
 
----
+## 🛠️ Technical Skills
 
-## 💻 Tech Stack
+**Programming:** Java, SQL, Python (basic)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-3776AB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+**Java & Backend:** Core Java, OOP, Collections, Streams, Exception Handling, JDBC, Maven, REST API fundamentals, Spring Boot fundamentals, Hibernate/JPA fundamentals
 
----
+**Database:** MySQL, Oracle SQL, Firebase Realtime Database
 
-## 🧠 Core Knowledge
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- DBMS, OS, Computer Networks
-- Backend Logic & Database Design
+**Tools:** Git, GitHub, Postman, VS Code, Android Studio, IntelliJ IDEA
 
----
+**Web:** HTML, CSS, JavaScript fundamentals
+
+**Other:** Data Structures and Algorithms, OpenCV, Manual Testing fundamentals
+
+## 🚀 Featured Projects
+
+### 1. Smart Attendance Management System
+**Java | Android Studio | Firebase | Face Recognition**
+
+- Developed an Android-based attendance management application.
+- Implemented student and faculty workflows.
+- Integrated Firebase Authentication and Realtime Database.
+- Worked on face registration, verification and attendance workflows.
+
+[View Project](https://github.com/Vishva1605/Smart_Attendance_System_Using_FaceRecognition)
+
+### 2. Expense Tracker REST API
+**Java 17 | Spring Boot | REST API | Maven | JUnit**
+
+- Developed REST endpoints to manage expenses.
+- Implemented adding, retrieving, filtering and deleting expenses.
+- Used layered architecture with Controller, Service and Repository components.
+- Added request validation and exception handling.
+
+[View Project](https://github.com/Vishva1605/Expense-Tracker-API)
+
+### 3. Face Detection and Recognition
+**Python | OpenCV | Haar Cascade | LBPH**
+
+- Implemented real-time face detection.
+- Explored face recognition using the LBPH algorithm.
+- Worked with dataset collection and model training.
+
+[View Project](https://github.com/Vishva1605/Face_Detection_Using_OpenCV)
+
+### 4. Java Programming and Mini Projects
+**Java | OOP | Collections | Problem Solving**
+
+- Practised Java fundamentals and object-oriented programming.
+- Built mini-projects involving account management, banking transactions, shopping and student course enrollment.
+- Practised arrays, strings, recursion and problem-solving.
+
+[View Repository](https://github.com/Vishva1605/Java)
+
+### 5. CodeTyper
+**Java | AWT Robot | JNativeHook**
+
+A Java desktop utility that automates code typing using keyboard events.
+
+[View Project](https://github.com/Vishva1605/Code_Typer)
+
+## 📚 Learning Journey
+
+- Core Java and Object-Oriented Programming
+- Collections Framework and Java Streams
+- JDBC and MySQL
+- Maven
+- REST API fundamentals and Postman
+- Spring Boot
+- Hibernate and JPA
+- Data Structures and Algorithms
 
 ## 💼 Internship Experience
 
-### 🔹 Java Full Stack Developer Intern – uLektz
-- Worked with **Core Java & OOP concepts**
-- Performed **CRUD operations using MySQL**
-- Built basic full-stack modules
-- Learned **Spring Boot fundamentals**
-- Followed real-world development workflows
+- **Java Full Stack Developer Intern — uLektz Learning Solutions**
+- **Web Development Intern — TechnoHacks Solutions**
 
-### 🔹 Web Development Intern – TechnoHacks
-- Built responsive UI using **HTML, CSS, JavaScript**
-- Strengthened frontend fundamentals
-- Improved debugging and problem-solving skills
+## 🔗 Connect With Me
 
----
-
-## 📌 Major Projects
-
-### 🔹 [Smart Attendance System](https://github.com/Vishva1605/Smart_Attendance_System_Using_FaceRecognition)  
-**Android | Java | Firebase**
-
-- Automated student attendance using a mobile application  
-- Implemented Firebase Authentication and Realtime Database  
-- Enabled attendance session creation and live participation tracking  
-- Generated and exported attendance reports in Excel format  
-- Designed modern UI using Material Design components  
+- [LinkedIn](https://www.linkedin.com/in/vishva-k-s-900270274/)
+- [Portfolio](https://vishva1605.github.io/Portfolio/Green_Portfolio/)
+- [LeetCode](https://leetcode.com/u/ks_vishva/)
+- [GitHub](https://github.com/Vishva1605/)
+- Email: vishvasrinivas123@gmail.com
 
 ---
 
-### 🔹 [Face Detection & Recognition System](https://github.com/Vishva1605/Face_Detection_Using_OpenCV)  
-**Python | OpenCV**
-
-- Developed a real-time face detection system using Haar Cascade  
-- Implemented face recognition using the LBPH algorithm  
-- Collected, trained, and evaluated face datasets  
-- Optimized model storage for faster and accurate identification  
-
----
-
-## 📌 Java Mini Projects
-- [Doctor Patient Management System](https://github.com/Vishva1605/Java/blob/main/Projects/DoctorPatientManagementSystem)
-- [Online Shopping System](https://github.com/Vishva1605/Java/tree/main/Projects/OnlineShoppingSystem)
-- [Student Course Enrollment System](https://github.com/Vishva1605/Java/tree/main/Projects/StudentCourseEnrollmentSystem)
-- [University Department Portal](https://github.com/Vishva1605/Java/tree/main/Projects/UniversityDepartmentPortal)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishva1605&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishva1605&layout=compact&theme=radical" width="48%" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishva1605)
-
----
-
-## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/vishva-k-s
-- 🌐 Portfolio: https://vishva1605.github.io/Web-Projects/Portfolio/
-- ✉️ Email: vishvasrinivas123@gmail.com
+*Always learning, building and improving one project at a time.*
